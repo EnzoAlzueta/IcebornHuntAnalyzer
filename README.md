@@ -1,5 +1,7 @@
 # Iceborn Hunt Analyzer
 
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/imkyril)
+
 A planned Windows desktop viewer for the local hunt archive written by Iceborn Damage Meter.
 
 **Project status — planning.** The first milestone is a read-only decoder for the meter’s IDMHARC1 archive. Its tests will cover complete records, damaged input and a final record still being written.
